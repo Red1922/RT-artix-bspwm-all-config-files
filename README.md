@@ -12,4 +12,6 @@ All my .config files from my Artix Linux/BSPWM system.
 
 Wallpaper Link: https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/pirate.jpg
 
+Credit to HomeNetGames for Wallpaper: https://www.homenetgames.com/
+
 ![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/pirate.jpg)
