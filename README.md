@@ -4,7 +4,7 @@ All my .config files from my Artix Linux/BSPWM system.
 - I used Artix/Runit Base iso for installation
 - Picom is stock.
 - Dunst is yet to be Riced.
-- Credits to Endeavour OS/BSPWM Community Edition for some configuration. Their Github repo: https://github.com/EndeavourOS-Community-Editions/bspwm
+- Credits to Endeavour OS/BSPWM Community Edition for some configuration. Their [Github repo](https://github.com/EndeavourOS-Community-Editions/bspwm)
 - Some changes may still be done.
 - Some lines are commented or their script files have not been uploaded. Please ignore those, I will configure them later.
 - XFCE4-Terminal: Riced using its preferences settings. (refer preview image)
@@ -24,9 +24,9 @@ All my .config files from my Artix Linux/BSPWM system.
 
 ![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Screenshot-2022-06-08_08%3A41%3A08.png)
 
-Wallpaper Link: https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/pirate.jpg
+[Link to Wallpaper](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/pirate.jpg)
 
-Credit to HomeNetGames for Wallpaper: https://www.homenetgames.com/
+Credit to [HomeNetGames](https://www.homenetgames.com/) for Wallpaper.
 
 ![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/pirate.jpg)
 
