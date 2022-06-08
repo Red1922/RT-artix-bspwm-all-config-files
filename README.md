@@ -4,7 +4,7 @@ All my .config files from my Artix Linux/BSPWM system.
 - I used Artix/Runit Base iso for installation
 - Picom is stock.
 - Dunst is yet to be Riced.
-- Credits to Endeavour OS/BSPWM Community Edition for some configuration. Their [Github repo](https://github.com/EndeavourOS-Community-Editions/bspwm)
+- Credits to Endeavour OS/BSPWM Community Edition for some configuration. Their [Github repo.](https://github.com/EndeavourOS-Community-Editions/bspwm)
 - Some changes may still be done.
 - Some lines are commented or their script files have not been uploaded. Please ignore those, I will configure them later.
 - XFCE4-Terminal: Riced using its preferences settings. (refer preview image)
@@ -17,10 +17,12 @@ All my .config files from my Artix Linux/BSPWM system.
 - Add the commands at the end of my Xsession file to your ~/.xinitrc file in case you use `startx` to start up Xorg instead of a DM. Or in the respective Xsession file on whichever DM you use.
 - File Manager: Thunar-extended (install thunar-archive-plugin and xarchiver for GUI archiving and decompression tool)
 - Text Editor: Nano (Terminal) and Xed (GUI)
-- Audio Visualizer: cli-visualizer
+- Audio Visualizer: cli-visualizer (stock, will rice later)
 - I use pipewire and wireplumber
 - Screenshot utilities used: Scrot + Xclip and flameshot for a GUI (and for editing the screenshot right away)
 - I am using network-manager-applet (nmcli and nmtui commands for terminal)
+- I could have missed uploading some .config files so please DM me on Discord ---> `@R.T.Redreovich#2851`
+
 
 # Preview
 
