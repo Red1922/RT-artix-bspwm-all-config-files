@@ -17,6 +17,6 @@ Credit to HomeNetGames for Wallpaper: https://www.homenetgames.com/
 
 ![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/pirate.jpg)
 
-# Special Thanks to
+# Special Thanks To
 
 [Ilham](https://github.com/ilhamisbored/bspwm-dotfiles) and many other dear friends for introducing me to Linux and helping me configure all the way to where I am now.
