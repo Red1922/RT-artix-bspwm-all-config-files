@@ -5,6 +5,7 @@ All my .config files from my Artix Linux/BSPWM system.
 - Dunst has yet to be Riced.
 - Credits to Endeavour OS/BSPWM Community Edition for some configuration. Their Github repo: https://github.com/EndeavourOS-Community-Editions/bspwm
 - Some changes may still be done.
+- Some lines are commented or their script files have not been uploaded. Please ignore those, I will configure them later.
 
 # Preview
 
