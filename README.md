@@ -17,6 +17,8 @@ All my .config files from my Artix Linux/BSPWM system.
 - Text Editor: Nano (Terminal) and Xed (GUI)
 - Audio Visualizer: cli-visualizer
 - I use pipewire and wireplumber
+- Screenshot utilities used: Scrot + Xclip and flameshot for a GUI (and for editing the screenshot right away)
+- I am using network-manager-applet (nmcli and nmtui commands for terminal)
 
 # Preview
 
