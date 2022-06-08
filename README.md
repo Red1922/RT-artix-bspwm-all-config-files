@@ -7,7 +7,7 @@ All my .config files from my Artix Linux/BSPWM system.
 - Some changes may still be done.
 
 # Preview
-! [red@Artix](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Screenshot-2022-06-08_08%3A41%3A08.png)
+!(https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Screenshot-2022-06-08_08%3A41%3A08.png)
 
 Wallper: https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/pirate.jpg
-! [wallpaper](ttps://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/pirate.jpg)
+!(https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/pirate.jpg)
