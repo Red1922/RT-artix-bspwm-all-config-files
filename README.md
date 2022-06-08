@@ -13,6 +13,8 @@ All my .config files from my Artix Linux/BSPWM system.
 - GTK Theme: Arc-Dark (Run yay -S arc-gtk-theme to install)
 - GTK Appearance configured using lxappearance
 - QT Appearance configured using qt5ct (install qt5-styleplugins as well)
+- After installing qt5ct and qt5-styleplugins and configuring it, please add `QT_QPA_PLATFORMTHEME=qt5ct` to /etc/environment and restarting your system for making qt apps respect your theming.
+- Add the commands at the end of my Xsession file to your ~/.xinitrc file in case you use `startx` to start up Xorg instead of a DM. Or in the respective Xsession file on whichever DM you use.
 - File Manager: Thunar-extended (install thunar-archive-plugin and xarchiver for GUI archiving and decompression tool)
 - Text Editor: Nano (Terminal) and Xed (GUI)
 - Audio Visualizer: cli-visualizer
