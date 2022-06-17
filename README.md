@@ -22,6 +22,7 @@ All my .config files from my Artix Linux/BSPWM system.
 - Screenshot utilities used: Scrot + Xclip and flameshot for a GUI (and for editing the screenshot right away)
 - I am using network-manager-applet (nmcli and nmtui commands for terminal)
 - I could have missed uploading some .config files so please DM me on Discord ---> `@R.T.Redreovich#2851`
+- Some major changes have been made since the last commit. They will be uploaded as soon as I have free time.
 
 
 # Preview
