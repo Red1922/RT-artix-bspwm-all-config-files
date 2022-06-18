@@ -65,4 +65,6 @@ echo "X session wrapper complete, running session $@"
 /usr/bin/pipewire-pulse &
 /usr/bin/wireplumber &
 
+/usr/bin/dunst &
+
 exec $@

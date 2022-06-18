@@ -21,10 +21,15 @@ bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
+xsetroot -cursor_name left_ptr
+
 picom -fb --experimental-backends --backend glx &
 
 nitrogen --restore &
 
 nm-applet --indicator &
 
+blueman-applet &
+
 dunst &
+
