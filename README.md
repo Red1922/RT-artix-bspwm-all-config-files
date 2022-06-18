@@ -25,7 +25,7 @@ All my .config files from my Artix Linux/BSPWM system.
 
 # Preview
 
-![RT-artix-bspwm-all-config-files]()
+![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Screenshots/Screenshot-2022-06-18_21%3A27%3A53.png)
 
 [Link to Current Wallpaper](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Wallpapers/Elite-Dangerous-Space-Station.jpg)
 
@@ -37,7 +37,7 @@ I am not sure who the creator of this image is, I tried searching but the only w
 My previous wallpaper.
 Credit to [HomeNetGames](https://www.homenetgames.com/) for Wallpaper.
 
-![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Wallpapers]]/pirate.jpg)
+![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Wallpapers/pirate.jpg)
 
 
 # Special Thanks To
