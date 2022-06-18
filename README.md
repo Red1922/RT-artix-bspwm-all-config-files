@@ -25,16 +25,20 @@ All my .config files from my Artix Linux/BSPWM system.
 
 # Preview
 
+Desktop
 ![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Screenshots/Screenshot-2022-06-18_21%3A27%3A53.png)
 
 [Link to Current Wallpaper](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Wallpapers/Elite-Dangerous-Space-Station.jpg)
 
-My current wallpaper.
+Dunst - showing a new song starting to play on Spotify
+![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Screenshots/Dunst-Preview.png)
+
+My current wallpaper
 I am not sure who the creator of this image is, I tried searching but the only website I found was apparently down or not responding. Please leave me a notification if you created this image or you know the person who created it and I will credit them here. I thank you a lot nonetheless.
 
 ![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Wallpapers/Elite-Dangerous-Space-Station.jpg)
 
-My previous wallpaper.
+My previous wallpaper
 Credit to [HomeNetGames](https://www.homenetgames.com/) for Wallpaper.
 
 ![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Wallpapers/pirate.jpg)
