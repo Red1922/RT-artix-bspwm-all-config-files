@@ -17,6 +17,8 @@ All my .config files from my Artix Linux/BSPWM system.
 
 - Terminal: Alacritty (Run `yay -S alacritty` in terminal? to install, you can do this during live iso installation or through a tty.) (As a tip, I did try making w3m work with neofetch on Alacritty but it seems that Alacritty does not have good w3m support yet. + Run `yay -S lolcat` to get rainbow text. `neofetch | lolcat` to get rainbow themed neofetch.)
 
+- Shell: ZSH (Run `yay -S zsh oh-my-zsh` in terminal to install. Run `zsh` in terminal to configure zsh. Be sure to add `/usr/bin/zsh` in your terminal config, Alacritty for example to make sure your shell is correct. Or switch to bash otherwise. My config files have zsh so be wary. There should not be any conflicts but still. Precaution is better than cure. `¯\_(ツ)_/¯`)
+
 - Icon Theme: [La Capitaine](https://store.kde.org/p/1148695/) (Run `yay -S la-capitaine-icon-theme` in terminal to install.) Install Necessary Icon Themes (unless you decide to edit the config file for Dunst yourself, which isn't that hard per se... I personally prefer this so I did not bother changing') by running `yay -S paper-gtk-theme-git paper-icon-theme arc-x-icon-themes` in the terminal.
 
 - Mouse Cursor Theme: Former - [Capitaine Cursors](https://store.kde.org/p/1148692) (Run `yay -S capitaine-cursors` in terminal to install.); New - Breeze Hacked (run `yay -S breeze-hacked-cursor-theme` in terminal to install.)
