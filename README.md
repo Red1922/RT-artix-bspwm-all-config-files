@@ -7,6 +7,8 @@ All my .config files from my Artix Linux/BSPWM system.
 
 - Credits to Endeavour OS/BSPWM Community Edition for some configuration. Their [Github repo.](https://github.com/EndeavourOS-Community-Editions/bspwm)
 
+- Picom Round Corners + Shadow/Blur causes an issue on corners with a light image/draw in the background. I have searched for solutions but couldn't find any.
+
 - Some changes may still be done. I have added commands to install packages alongside the software details in each line in any possible case you might need them. Otherwise they are pretty redundant for an intermediate to experienced user.
 
 - Some lines are commented or their script files have not been uploaded. Please ignore those, I will configure them later.
