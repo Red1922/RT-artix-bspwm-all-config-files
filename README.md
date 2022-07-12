@@ -47,7 +47,7 @@ All my .config files from my Artix Linux/BSPWM system.
 
 - I am using network-manager-applet (nmcli and nmtui commands for terminal) (Should be present there after installation but in any case, run `yay -S networkmanager networkmanager-runit network-manager-applet` in terminal to install. Remember that I am using Runit, in case you are using a different init system, swap runit with your init system in the 2nd package. For example networkmanager-openrc. Do not forget to symlink the service by running `sudo ln -s /etc/runit/sv/<service-name> /run/runit/service/` in the terminal to enable and instantly start the service. In this case just replace `<service-name>` with `NetworkManager`.)
 
-- I will add a small guide on hoe I got bluetooth working on a later date.
+- I will add a small guide on how I got bluetooth working on a later date.
 
 - I could have missed uploading some .config files so please DM me on Discord ---> ~~`@R.T.Redreovich#2851`~~ `@Léon#1679`
 
