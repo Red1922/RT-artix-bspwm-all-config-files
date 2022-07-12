@@ -1,13 +1,32 @@
 #! /bin/sh
 
+# Start up processes
+
+# Picom
+picom -fb --experimental-backends --backend glx &
+
+# Background Wallpaper
+nitrogen --restore &
+
+# Network Applet
+nm-applet --indicator &
+
+# Bluetooth Applet
+blueman-applet &
+
+# Notifications
+/usr/bin/dunst &
+
 pgrep -x sxhkd > /dev/null || sxhkd &
 
-bspc monitor -d I II III IV V VI VII VIII IX X
+bspc monitor -d I II III IV V VI VII VIII IX X XI
 
 $HOME/.config/polybar/launch.sh &
 
 bspc config border_width         2
-bspc config window_gap          12
+bspc config window_gap          5
+
+bspc config focus_follows_pointer true
 
 bspc config split_ratio          0.52
 bspc config borderless_monocle   true
@@ -20,16 +39,11 @@ bspc rule -a Chromium desktop='^2'
 bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
+bspc rule -a xdman-Main state=floating
+bspc rule -a feh state=floating
 
+# Cursor
 xsetroot -cursor_name left_ptr
 
-picom -fb --experimental-backends --backend glx &
-
-nitrogen --restore &
-
-nm-applet --indicator &
-
-blueman-applet &
-
-dunst &
-
+# Low battery notifier
+~/.config/bspwm/scripts/low_bat_notifier.sh
