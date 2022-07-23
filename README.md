@@ -70,7 +70,11 @@ Desktop
 [Link to Current Wallpaper](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Wallpapers/Elite-Dangerous-Space-Station.jpg)
 
 Dunst - showing a new song starting to play on Spotify
+
 ![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Screenshots/Dunst-Preview2.png)
+
+Tip
+
 ![RT-artix-bspwm-all-config-files](https://raw.githubusercontent.com/Red1922/RT-artix-bspwm-all-config-files/main/Screenshots/spotify-meme.png)
 
 My current wallpaper:
